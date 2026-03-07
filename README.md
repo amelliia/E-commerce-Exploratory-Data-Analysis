@@ -101,13 +101,8 @@ However, growth volume alone does not equal sustainable value. When analysing cu
 ##### **April Growth Spike - 110 new customers – no active promotion**
   
 This spike is interesting because there was no promotion running that week. The previous campaign (Spring Flash Sale) was on 6 April.
-
-Possible explanations:
--	Delayed conversion from the Spring promotion
--	Customers taking time to decide
--	Seasonal demand (Spring wardrobe refresh)
-
-This suggests that promotions may not create immediate spikes only — they can generate a lag effect. Attribution shouldn’t be limited to the exact campaign week.
+Possible explanations are delayed conversion from the Spring promotion ,customers taking time to decide or seasonal demand (Spring wardrobe refresh).
+This suggests that promotions may not create immediate spikes only, they can generate a lag effect.
 
 ##### **May Growth Spike - Mid-Season Clearance (30% discount)**
   
