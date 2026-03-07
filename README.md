@@ -34,9 +34,8 @@ Customer behaviour analysis reveals that most customers purchase only once, whil
 ## 4. Sales Trends 
 
 ![Image](https://github.com/user-attachments/assets/f825d4f8-bf61-493a-87fc-be2d2e58959d)
-
-### Revenue 
-Revenue has been rising steadily, mainly because more customers are making purchases, not because they’re spending more per order.
+ 
+**Revenue** has been rising steadily, mainly because more customers are making purchases, not because they’re spending more per order.
 
 - The Mid-Season Clearance campaign in mid-May (12–19 May) produced the largest revenue spike, with weekly revenue exceeding $51K. This increase was accompanied by a sharp rise in order volume, indicating that the promotion successfully encouraged more purchases rather than higher spending per order.
 
@@ -44,20 +43,17 @@ Revenue has been rising steadily, mainly because more customers are making purch
 
 - Another decline of -62.7% week-over-week occurred in early May before the clearance campaign, likely reflecting normal fluctuations in demand rather than any promotional effect. This kind of short-term swing is common in smaller online stores, where a few fewer or extra orders can make percentage changes look much bigger than they really are.
 
-### Profit 
-Profit mirrored revenue, growing roughly 12% per week. Margins stayed steady for the most part, showing costs and pricing were well managed.
+**Profit** mirrored revenue, growing roughly 12% per week. Margins stayed steady for the most part, showing costs and pricing were well managed.
 
 -	Margins remain stable around 43%, showing that pricing and cost management are consistent even during high-volume periods. During the mid-May clearance,margins dipped slightly because more discounted orders were sold.
 -	Profit increases are largely volume-driven, with no significant changes in unit margins, confirming that profitability stems from selling more items rather than higher per-unit earnings.
 
-### Order Volume
-Order volume follows the same pattern as revenue, confirming that sales growth is driven by volume.
+**Order volume** follows the same pattern as revenue, confirming that sales growth is driven by volume.
 
 -	Weekly order volumes increased by roughly 11–12%, with noticeable spikes during promotional periods that also correspond with higher revenue
 -	Weeks where revenue dropped also show lower order numbers, reinforcing that performance is largely influenced by how many purchases are made rather than customers spending significantly more per order
 
-### Average Order Value (AOV) 
-AOV stayed mostly steady at about $358  with only minor week-to-week changes.
+**Average Order Value (AOV)** stayed mostly steady at about $358  with only minor week-to-week changes.
 
 -	Peaks in revenue did not correspond with significant increases in AOV, indicating that promotions increase order frequency rather than basket size.
 -	This stability suggests consistent purchasing behavior but also points to an opportunity to increase customer value through cross-selling, bundles, or checkout upsells, which could improve overall revenue without relying solely on more orders.
