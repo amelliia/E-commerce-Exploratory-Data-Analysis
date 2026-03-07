@@ -126,9 +126,10 @@ This campaign demonstrates that returning customers are actively monitoring the 
 
 #### Customer Value & Behavior
 New customers are generally low-value, contributing modestly to revenue. Returning customers are almost entirely responsible for high-value transactions.
+
 Campaign behavior:
-•	Clearance campaigns boost volume and units sold (May campaign: 452 units), but average revenue per customer drops and profit margin compresses (May: $259 avg, 21.15% margin).
-•	Targeted price drops (June) reinforce existing customer engagement without diluting margins.
+-	Clearance campaigns boost volume and units sold (May campaign: 452 units), but average revenue per customer drops and profit margin compresses (May: $259 avg, 21.15% margin).
+-	Targeted price drops (June) reinforce existing customer engagement without diluting margins.
 
 ## 8. Purchase Distribution
 
