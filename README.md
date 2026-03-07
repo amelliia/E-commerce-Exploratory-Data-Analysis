@@ -18,6 +18,7 @@ The interactive dashboard can be downloaded here:
 
 ## 2. Dataset Structure and Entity Relationship Diagram
 The dataset consists of five tables arranged in a star schema: one fact table (fact_sales) and five dimension tables (products, customers, campaigns and date). I changed the data from header/detail schema to a star schema for faster query performance and I added a date table.
+
 <img width="3840" height="2160" alt="Image" src="https://github.com/user-attachments/assets/e74bac21-d4fa-48f9-9bbf-c03d1df56a49" />
 
 ## 3.	Executive Summary
@@ -34,7 +35,8 @@ Customer behaviour analysis reveals that most customers purchase only once, whil
 
 ![Image](https://github.com/user-attachments/assets/f825d4f8-bf61-493a-87fc-be2d2e58959d)
 
-### Revenue has been rising steadily, mainly because more customers are making purchases, not because they’re spending more per order.
+### Revenue 
+Revenu has been rising steadily, mainly because more customers are making purchases, not because they’re spending more per order.
 
 •	The Mid-Season Clearance campaign in mid-May (12–19 May) produced the largest revenue spike, with weekly revenue exceeding $51K. This increase was accompanied by a sharp rise in order volume, indicating that the promotion successfully encouraged more purchases rather than higher spending per order.
 
@@ -42,19 +44,25 @@ Customer behaviour analysis reveals that most customers purchase only once, whil
 
 •	Another decline of -62.7% week-over-week occurred in early May before the clearance campaign, likely reflecting normal fluctuations in demand rather than any promotional effect. This kind of short-term swing is common in smaller online stores, where a few fewer or extra orders can make percentage changes look much bigger than they really are.
 
-### Profit mirrored revenue, growing roughly 12% per week. Margins stayed steady for the most part, showing costs and pricing were well managed.
-•	Margins remain stable around 43%, showing that pricing and cost management are consistent even during high-volume periods. During the mid-May clearance,margins dipped slightly because more discounted orders were sold.
-•	Profit increases are largely volume-driven, with no significant changes in unit margins, confirming that profitability stems from selling more items rather than higher per-unit earnings.
+### Profit 
+Profit mirrored revenue, growing roughly 12% per week. Margins stayed steady for the most part, showing costs and pricing were well managed.
 
-### Order Volume follows the same pattern as revenue, confirming that sales growth is driven by volume.
-•	Weekly order volumes increased by roughly 11–12%, with noticeable spikes during promotional periods that also correspond with higher revenue
-•	Weeks where revenue dropped also show lower order numbers, reinforcing that performance is largely influenced by how many purchases are made rather than customers spending significantly more per order
+-	Margins remain stable around 43%, showing that pricing and cost management are consistent even during high-volume periods. During the mid-May clearance,margins dipped slightly because more discounted orders were sold.
+-	Profit increases are largely volume-driven, with no significant changes in unit margins, confirming that profitability stems from selling more items rather than higher per-unit earnings.
 
-### Average Order Value (AOV) stayed mostly steady at about $358  with only minor week-to-week changes.
-•	Peaks in revenue did not correspond with significant increases in AOV, indicating that promotions increase order frequency rather than basket size.
-•	This stability suggests consistent purchasing behavior but also points to an opportunity to increase customer value through cross-selling, bundles, or checkout upsells, which could improve overall revenue without relying solely on more orders.
+### Order Volume
+Order volume follows the same pattern as revenue, confirming that sales growth is driven by volume.
 
-Overall, revenue growth is primarily driven by higher transaction volume rather than increases in AOV, indicating that the business is successfully generating demand but has opportunities to increase per-order value.
+-	Weekly order volumes increased by roughly 11–12%, with noticeable spikes during promotional periods that also correspond with higher revenue
+-	Weeks where revenue dropped also show lower order numbers, reinforcing that performance is largely influenced by how many purchases are made rather than customers spending significantly more per order
+
+### Average Order Value (AOV) 
+AOV stayed mostly steady at about $358  with only minor week-to-week changes.
+
+-	Peaks in revenue did not correspond with significant increases in AOV, indicating that promotions increase order frequency rather than basket size.
+-	This stability suggests consistent purchasing behavior but also points to an opportunity to increase customer value through cross-selling, bundles, or checkout upsells, which could improve overall revenue without relying solely on more orders.
+
+Revenue growth is primarily driven by higher transaction volume rather than increases in AOV, indicating that the business is successfully generating demand but has opportunities to increase per-order value.
 
 ## 5. Campaigns Performance
 
@@ -62,12 +70,12 @@ Overall, revenue growth is primarily driven by higher transaction volume rather 
 
 Because campaigns in the dataset ran for very short durations, week-level uplift analysis wasn’t reliable. Instead, I focused on comparing promotional versus non-promotional performance using margins, order volume and sales contribution.
 
-Promotional campaigns account for a small portion of total revenue (6.8%), with most sales happening during non-promotional periods. This shows that the business doesn’t rely heavily on discounts and full-price sales remain the main driver of revenue and profit.
+Promotional campaigns account for a small portion of total revenue (**6.8%**), with most sales happening during non-promotional periods. This shows that the business doesn’t rely heavily on discounts and full-price sales remain the main driver of revenue and profit.
 
 Promotional campaigns tend to increase the number of orders rather than the size of each order. This is reflected in the slightly lower AOV during promotions compared with full-price sales, meaning promotions encourage more frequent purchases rather than higher spend per order.
 
-•	Light promotions keep margins at a reasonable level, while deep-discount clearance events significantly cut into profits and should be used sparingly
-•	Bigger discounts during clearance campaigns tend to attract new customers, while smaller, subtler price changes help keep existing customers engaged.
+-	Light promotions keep margins at a reasonable level, while deep-discount clearance events significantly cut into profits and should be used sparingly
+-	Bigger discounts during clearance campaigns tend to attract new customers, while smaller, subtler price changes help keep existing customers engaged.
 
 **Promotional campaigns contribute incremental revenue but significantly reduce profitability compared to non-promotional sales. While light promotions maintain acceptable margins, deep-discount clearance campaigns erode value and should be used selectively. The strongest financial performance is driven by full-price sales, indicating that demand is not heavily promotion-dependent.**
 
@@ -89,12 +97,13 @@ This scatter plot examines how categories respond to promotional pricing, plotti
 
 ## 7.	Customer Retention, Value and Segmentation
 
-<img width="2767" height="1600" alt="Image" src="https://github.com/user-attachments/assets/e09db365-2fb0-4800-8033-7703fa65ff3f" />
+<img width="1266" height="1129" alt="Image" src="https://github.com/user-attachments/assets/9b88fe72-051e-4a8d-a351-ed785fdf700d" />
 
 The brand is still in early growth with 580 total customers and weekly growth of 7.4%, which is strong for a young fashion e-commerce business. 
 However, growth volume alone does not equal sustainable value. When analysing customers, campaign performance and segmentation we can see that long-term value is being created by retained customers and not newly acquired ones. Overall retention sits at 24% which means that roughly 1 in 4 customers come back.
 
-- **April Growth Spike - 110 new customers – no active promotion**
+##### April Growth Spike - 110 new customers – no active promotion
+  
 This spike is interesting because there was no promotion running that week. The previous campaign (Spring Flash Sale) was on 6 April.
 
 Possible explanations:
@@ -104,12 +113,15 @@ Possible explanations:
 
 This suggests that promotions may not create immediate spikes only — they can generate a lag effect. Attribution shouldn’t be limited to the exact campaign week.
 
-- **May Growth Spike - Mid-Season Clearance (30% discount)**
+##### May Growth Spike - Mid-Season Clearance (30% discount)
+  
 Although the campaign brought in 74 new customers and reactivated 21 existing ones, average revenue per customer fell to $259 which is the lowest across campaigns. It also compressed profit margin to 21.15%. This indicates that purchasing behaviour during this period was highly price-sensitive. Customers were buying more units but spending less per transaction.
 Clearance campaigns typically perform this way. They expand the customer base and generate transaction spikes, but they do not necessarily strengthen long-term customer value unless supported by strong post-purchase retention strategies.
 
--**June Drop - June Price Drop Campaign (10% discount)**
+##### June Drop - June Price Drop Campaign (10% discount)
+
 The June Price Drop coincided with a noticeable increase in retention %. While part of this rise is due to the mix of customers who participated in the campaign, it also reflects genuine engagement from existing customers, who are responsible for most of the high-value purchases.
+
 This campaign demonstrates that returning customers are actively monitoring the brand and respond strongly to targeted pricing. Unlike the May clearance, which focused on acquiring new customers, the June campaign was retention-driven, emphasizing the value of engaging the existing customer base. Although the scale was small, it provides clear evidence of the effectiveness of retention-focused strategies. Unlike the May clearance, this campaign wasn’t acquisition-heavy, it was retention-heavy.
 
 #### Customer Value & Behavior
