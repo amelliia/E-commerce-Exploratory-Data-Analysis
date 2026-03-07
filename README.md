@@ -102,7 +102,7 @@ This scatter plot examines how categories respond to promotional pricing, plotti
 The brand is still in early growth with 580 total customers and weekly growth of 7.4%, which is strong for a young fashion e-commerce business. 
 However, growth volume alone does not equal sustainable value. When analysing customers, campaign performance and segmentation we can see that long-term value is being created by retained customers and not newly acquired ones. Overall retention sits at 24% which means that roughly 1 in 4 customers come back.
 
-##### April Growth Spike - 110 new customers – no active promotion
+##### **April Growth Spike - 110 new customers – no active promotion**
   
 This spike is interesting because there was no promotion running that week. The previous campaign (Spring Flash Sale) was on 6 April.
 
@@ -113,12 +113,12 @@ Possible explanations:
 
 This suggests that promotions may not create immediate spikes only — they can generate a lag effect. Attribution shouldn’t be limited to the exact campaign week.
 
-##### May Growth Spike - Mid-Season Clearance (30% discount)
+##### **May Growth Spike - Mid-Season Clearance (30% discount)**
   
 Although the campaign brought in 74 new customers and reactivated 21 existing ones, average revenue per customer fell to $259 which is the lowest across campaigns. It also compressed profit margin to 21.15%. This indicates that purchasing behaviour during this period was highly price-sensitive. Customers were buying more units but spending less per transaction.
 Clearance campaigns typically perform this way. They expand the customer base and generate transaction spikes, but they do not necessarily strengthen long-term customer value unless supported by strong post-purchase retention strategies.
 
-##### June Drop - June Price Drop Campaign (10% discount)
+##### **June Drop - June Price Drop Campaign (10% discount)**
 
 The June Price Drop coincided with a noticeable increase in retention %. While part of this rise is due to the mix of customers who participated in the campaign, it also reflects genuine engagement from existing customers, who are responsible for most of the high-value purchases.
 
