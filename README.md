@@ -36,13 +36,13 @@ Customer behaviour analysis reveals that most customers purchase only once, whil
 ![Image](https://github.com/user-attachments/assets/f825d4f8-bf61-493a-87fc-be2d2e58959d)
 
 ### Revenue 
-Revenu has been rising steadily, mainly because more customers are making purchases, not because they’re spending more per order.
+Revenue has been rising steadily, mainly because more customers are making purchases, not because they’re spending more per order.
 
-•	The Mid-Season Clearance campaign in mid-May (12–19 May) produced the largest revenue spike, with weekly revenue exceeding $51K. This increase was accompanied by a sharp rise in order volume, indicating that the promotion successfully encouraged more purchases rather than higher spending per order.
+- The Mid-Season Clearance campaign in mid-May (12–19 May) produced the largest revenue spike, with weekly revenue exceeding $51K. This increase was accompanied by a sharp rise in order volume, indicating that the promotion successfully encouraged more purchases rather than higher spending per order.
 
-•	In contrast, revenue dropped significantly in early June (-58% week-over-week) despite the June Price Drop campaign, indicating that this promotion was less effective at boosting demand.
+- In contrast, revenue dropped significantly in early June (-58% week-over-week) despite the June Price Drop campaign, indicating that this promotion was less effective at boosting demand.
 
-•	Another decline of -62.7% week-over-week occurred in early May before the clearance campaign, likely reflecting normal fluctuations in demand rather than any promotional effect. This kind of short-term swing is common in smaller online stores, where a few fewer or extra orders can make percentage changes look much bigger than they really are.
+- Another decline of -62.7% week-over-week occurred in early May before the clearance campaign, likely reflecting normal fluctuations in demand rather than any promotional effect. This kind of short-term swing is common in smaller online stores, where a few fewer or extra orders can make percentage changes look much bigger than they really are.
 
 ### Profit 
 Profit mirrored revenue, growing roughly 12% per week. Margins stayed steady for the most part, showing costs and pricing were well managed.
