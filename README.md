@@ -13,7 +13,9 @@ The objective of this exploratory data analysis (EDA) is to understand how promo
 - **Customer Insights:** customer purchases patterns, retention and behaviour segmentation
 
 Insights from this analysis can help guide future marketing decisions and optimisation opportunities.
+
 The technical side of the project can be seen here: 
+
 The interactive dashboard can be downloaded here: [link](https://github.com/amelliia/E-commerce-Exploratory-Data-Analysis/blob/main/E-commerce%20Exploratory%20Data%20Analysis.pbix)
 
 ## 2. Dataset Structure and Entity Relationship Diagram
