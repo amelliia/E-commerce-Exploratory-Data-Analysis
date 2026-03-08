@@ -150,11 +150,21 @@ To convert first-time buyers into repeat customers and strengthen long-term valu
 **Strengthening engagement immediately after a first purchase is critical to improving retention and maximizing customer lifetime value.**
 
 ## 9.	Recommendations
--	**Retention drives profitability:** Repeat buyers generate disproportionate revenue; acquisition alone is insufficient for sustainable growth.
--	**Campaign strategy:** Light, targeted promotions maintain engagement; deep discounts reduce profitability and long-term value.
--	**Product strategy:** Focus on high-margin, high-demand categories (Pants, T-Shirts) and reconsider low-performing categories (Sleepwear, Shoes).
--	**Customer strategy:** Improve second-purchase conversion and encourage repeat behavior through loyalty and post-purchase engagement programs.
--	**Revenue growth opportunities:** Increase AOV through cross-selling, bundling, and checkout upsells; focus on retention-led strategies to stabilize revenue.
+
+**- Focus on customer retention**
+Repeat customers generate much more revenue than one-time buyers. This suggests that relying only on new customer acquisition will not be enough for long-term growth. Increasing the number of customers who return for a second or third purchase should therefore be a key priority.
+
+**- Adjust promotion strategy**
+Promotions do increase demand for short periods, but deeper discounts reduce profit margins. Instead of relying on heavy discounting, the company should focus on lighter and more targeted promotions that keep customers engaged without hurting profitability.
+
+**- Prioritize stronger product categories**
+Categories such as Pants and T-Shirts show strong margins and consistent demand, making them important contributors to overall profitability. On the other hand, categories like Sleepwear and Shoes perform weaker even when promotions are applied. These categories may require a review of pricing, product mix, or marketing strategy.
+
+**- Encourage repeat purchasing behaviour**
+Many customers buy only once. Creating incentives for them to return could significantly increase revenue. Loyalty programs, personalized recommendations, and post-purchase communication could help turn first-time buyers into repeat customers.
+
+**- Increase average order value**
+Revenue could also grow by increasing the value of each order. Cross-selling related products, offering bundles, or adding upsell options at checkout could encourage customers to add more items to their cart without relying on discounts.
 
 
 
