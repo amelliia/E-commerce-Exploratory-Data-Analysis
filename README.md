@@ -127,7 +127,7 @@ Customers with three or more purchases show dramatically higher average spend, r
 
 #### Why Customers Leave
 
-Common factors may include:\
+Common factors may include:
 - Price sensitivity: Low-value first purchases may not encourage repeat transactions.
 -	Product relevance: Limited personalization or mismatches with customer preferences can reduce satisfaction.
 -	Engagement gaps: Lack of post-purchase communication or incentives may fail to nurture repeat behavior.
