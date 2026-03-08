@@ -35,26 +35,20 @@ Customer behaviour analysis reveals that most customers purchase only once, whil
 
 ![Image](https://github.com/user-attachments/assets/f825d4f8-bf61-493a-87fc-be2d2e58959d)
  
-**Revenue** has been rising steadily, mainly because more customers are making purchases, not because they’re spending more per order.
-
+**Revenue** has been rising steadily, mainly because more customers are making purchases, not because they’re spending more per order.\
 - The Mid-Season Clearance campaign in mid-May (12–19 May) produced the largest revenue spike, with weekly revenue exceeding $51K. This increase was accompanied by a sharp rise in order volume, indicating that the promotion successfully encouraged more purchases rather than higher spending per order.
-
 - In contrast, revenue dropped significantly in early June (-58% week-over-week) despite the June Price Drop campaign, indicating that this promotion was less effective at boosting demand.
-
 - Another decline of -62.7% week-over-week occurred in early May before the clearance campaign, likely reflecting normal fluctuations in demand rather than any promotional effect. This kind of short-term swing is common in smaller online stores, where a few fewer or extra orders can make percentage changes look much bigger than they really are.
 
-**Profit** mirrored revenue, growing roughly 12% per week. Margins stayed steady for the most part, showing costs and pricing were well managed.
-
+**Profit** mirrored revenue, growing roughly 12% per week. Margins stayed steady for the most part, showing costs and pricing were well managed.\
 -	Margins remain stable around 43%, showing that pricing and cost management are consistent even during high-volume periods. During the mid-May clearance,margins dipped slightly because more discounted orders were sold.
 -	Profit increases are largely volume-driven, with no significant changes in unit margins, confirming that profitability stems from selling more items rather than higher per-unit earnings.
 
-**Order volume** follows the same pattern as revenue, confirming that sales growth is driven by volume.
-
+**Order volume** follows the same pattern as revenue, confirming that sales growth is driven by volume.\
 -	Weekly order volumes increased by roughly 11–12%, with noticeable spikes during promotional periods that also correspond with higher revenue
 -	Weeks where revenue dropped also show lower order numbers, reinforcing that performance is largely influenced by how many purchases are made rather than customers spending significantly more per order
 
-**Average Order Value (AOV)** stayed mostly steady at about $358  with only minor week-to-week changes.
-
+**Average Order Value (AOV)** stayed mostly steady at about $358  with only minor week-to-week changes.\
 -	Peaks in revenue did not correspond with significant increases in AOV, indicating that promotions increase order frequency rather than basket size.
 -	This stability suggests consistent purchasing behavior but also points to an opportunity to increase customer value through cross-selling, bundles, or checkout upsells, which could improve overall revenue without relying solely on more orders.
 
@@ -132,8 +126,8 @@ Customers with three or more purchases show dramatically higher average spend, r
 -	High-value customers are almost entirely returning customers.
 
 #### Why Customers Leave
-Common factors may include:
 
+Common factors may include:\
 - Price sensitivity: Low-value first purchases may not encourage repeat transactions.
 -	Product relevance: Limited personalization or mismatches with customer preferences can reduce satisfaction.
 -	Engagement gaps: Lack of post-purchase communication or incentives may fail to nurture repeat behavior.
@@ -151,23 +145,19 @@ To convert first-time buyers into repeat customers and strengthen long-term valu
 
 ## 9.	Recommendations
 
-**Focus on customer retention.**
-
+**Focus on customer retention.**\
 Repeat customers generate much more revenue than one-time buyers. This suggests that relying only on new customer acquisition will not be enough for long-term growth. Increasing the number of customers who return for a second or third purchase should therefore be a key priority.
 
 **Adjust promotion strategy.**\
 Promotions do increase demand for short periods, but deeper discounts reduce profit margins. Instead of relying on heavy discounting, the company should focus on lighter and more targeted promotions that keep customers engaged without hurting profitability.
 
-**Prioritize stronger product categories.**
-
+**Prioritize stronger product categories.**\
 Categories such as Pants and T-Shirts show strong margins and consistent demand, making them important contributors to overall profitability. On the other hand, categories like Sleepwear and Shoes perform weaker even when promotions are applied. These categories may require a review of pricing, product mix, or marketing strategy.
 
-**Encourage repeat purchasing behaviour.**
-
+**Encourage repeat purchasing behaviour.**\
 Many customers buy only once. Creating incentives for them to return could significantly increase revenue. Loyalty programs, personalized recommendations, and post-purchase communication could help turn first-time buyers into repeat customers.
 
-**Increase average order value.**
-
+**Increase average order value.**\
 Revenue could also grow by increasing the value of each order. Cross-selling related products, offering bundles, or adding upsell options at checkout could encourage customers to add more items to their cart without relying on discounts.
 
 
