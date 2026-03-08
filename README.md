@@ -132,14 +132,14 @@ Customers with three or more purchases show dramatically higher average spend, r
 -	High-value customers are almost entirely returning customers.
 
 #### Why Customers Leave
-While specific reasons for churn are not fully captured in the data, common factors may include:
+Common factors may include:
 
 - Price sensitivity: Low-value first purchases may not encourage repeat transactions.
 -	Product relevance: Limited personalization or mismatches with customer preferences can reduce satisfaction.
 -	Engagement gaps: Lack of post-purchase communication or incentives may fail to nurture repeat behavior.
 
 #### Retention Strategies
-To convert first-time buyers into repeat customers and strengthen long-term value, the following approaches are recommended:
+To convert first-time buyers into repeat customers and strengthen long-term value the following approaches are recommended:
 
 -	Implement loyalty programs to reward repeat purchases.
 -	Send post-purchase emails to maintain engagement.
@@ -150,11 +150,11 @@ To convert first-time buyers into repeat customers and strengthen long-term valu
 **Strengthening engagement immediately after a first purchase is critical to improving retention and maximizing customer lifetime value.**
 
 ## 9.	Recommendations
--	Retention drives profitability: Repeat buyers generate disproportionate revenue; acquisition alone is insufficient for sustainable growth.
--	Campaign strategy: Light, targeted promotions maintain engagement; deep discounts reduce profitability and long-term value.
--	Product strategy: Focus on high-margin, high-demand categories (Pants, T-Shirts) and reconsider low-performing categories (Sleepwear, Shoes).
--	Customer strategy: Improve second-purchase conversion and encourage repeat behavior through loyalty and post-purchase engagement programs.
--	Revenue growth opportunities: Increase AOV through cross-selling, bundling, and checkout upsells; focus on retention-led strategies to stabilize revenue.
+-	**Retention drives profitability:** Repeat buyers generate disproportionate revenue; acquisition alone is insufficient for sustainable growth.
+-	**Campaign strategy:** Light, targeted promotions maintain engagement; deep discounts reduce profitability and long-term value.
+-	**Product strategy:** Focus on high-margin, high-demand categories (Pants, T-Shirts) and reconsider low-performing categories (Sleepwear, Shoes).
+-	**Customer strategy:** Improve second-purchase conversion and encourage repeat behavior through loyalty and post-purchase engagement programs.
+-	**Revenue growth opportunities:** Increase AOV through cross-selling, bundling, and checkout upsells; focus on retention-led strategies to stabilize revenue.
 
 
 
