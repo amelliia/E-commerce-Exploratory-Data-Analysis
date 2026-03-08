@@ -155,7 +155,7 @@ Promotions do increase demand for short periods, but deeper discounts reduce pro
 Categories such as Pants and T-Shirts show strong margins and consistent demand, making them important contributors to overall profitability. On the other hand, categories like Sleepwear and Shoes perform weaker even when promotions are applied. These categories may require a review of pricing, product mix, or marketing strategy.
 
 **Encourage repeat purchasing behaviour.**\
-Many customers buy only once. Creating incentives for them to return could significantly increase revenue. Loyalty programs, personalized recommendations, and post-purchase communication could help turn first-time buyers into repeat customers.
+Many customers buy only once. Creating incentives for them to return could significantly increase revenue. Loyalty programs, personalized recommendations and post-purchase communication could help turn first-time buyers into repeat customers.
 
 **Increase average order value.**\
 Revenue could also grow by increasing the value of each order. Cross-selling related products, offering bundles, or adding upsell options at checkout could encourage customers to add more items to their cart without relying on discounts.
