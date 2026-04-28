@@ -7,7 +7,7 @@ The objective of this exploratory data analysis (EDA) is to understand how promo
 
 **Key areas of analysis include:**
 
-- **Sales Trends:** revenue patterns, weekly performance, order behaviour and AOV changes-
+- **Sales Trends:** revenue patterns, weekly performance, order behaviour and AOV changes
 - **Campaign Performance:** discount usage, promotion-driven revenue, uplift vs. non-promotion sales, and channel impact
 - **Product Performance:** best-selling items, category contribution, pricing influence and discount sensitivity
 - **Customer Insights:** customer purchases patterns, retention and behaviour segmentation
